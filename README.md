@@ -1,1 +1,1 @@
-# jetty-example
+# WebSocket example with jetty server
